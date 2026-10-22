@@ -1,3 +1,3 @@
 # Hola, soy Antonella Preuss
 
-QA Coordinator volviendo a usar Git después de mucho tiempo.
+QA Coordinator en VML, haciendo la capacitación de Automation.
